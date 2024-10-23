@@ -4,7 +4,7 @@
 
 >🎓 B.Tech in Computer Science | Diploma in Advanced Computing (CDAC)
 >💻 Passionate Software Developer | Creativity & Innovation Enthusiast
->🔧 Skilled in Spring Boot, React, and Web Technologies
+>🔧 Skilled in Spring Boot, React, and Web Technologies.
 >📈 Keen on building optimal software solutions for real-world problems
 >🌍 Project Experience:
 
