@@ -8,7 +8,7 @@
 >📈 Keen on building optimal software solutions for real-world problems
 >🌍 Project Experience:
 
->🚀 Continuously learning new frameworks and experimenting with the latest technologies.
+>🚀 Continuously learning new frameworks and experimenting with the latest technologies
 
 📩 Contact: kvs.nikhil1998@gmail.com
 
